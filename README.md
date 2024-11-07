@@ -1,6 +1,6 @@
 # 🐝 **Apiário Inteligente - Monitoramento de Temperatura com Tiva C**
 
-Este projeto visa criar um sistema inteligente de monitoramento de temperatura para apiários, usando o microcontrolador **Tiva C** e o sensor de temperatura **DHT22**. O objetivo é fornecer uma solução simples e eficiente para monitorar as condições dos apiários, garantindo que as abelhas tenham um ambiente seguro e saudável. A ideia inicial é realizar a medição em dois apiários, para que no futuro seja um projeto integrado à apiários em ambiente nativo (sem ser em ambiente controlado de testes). 
+Este projeto visa criar um sistema inteligente de monitoramento de temperatura para apiários, usando o microcontrolador **Tiva C** e o sensor de temperatura **DHT11**. O objetivo é fornecer uma solução simples e eficiente para monitorar as condições dos apiários, garantindo que as abelhas tenham um ambiente seguro e saudável. A ideia inicial é realizar a medição em dois apiários, para que no futuro seja um projeto integrado à apiários em ambiente nativo (sem ser em ambiente controlado de testes). 
 
 ## 🌱 **Objetivo do Projeto**
 
